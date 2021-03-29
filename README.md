@@ -8,3 +8,5 @@ Meu nome é Odirlei, trabalho com desenvolvimento web desde 2004. Hoje trabalho 
 - 🌎 Behance [@odirleiborgert](https://www.behance.net/odirleiborgert)
 - 🐦 Twitter [@odirleiborgert](https://twitter.com/odirleiborgert)
 - 👨‍💼 Linkedin [LinkedIn](https://www.linkedin.com/in/odirleiborgert/)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=odirleiborgert&theme=midnight-purple&show_icons=true)
