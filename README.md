@@ -14,6 +14,7 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCODE-000000?style=flat-square&logo=visual-studio-code&logoColor=blue)
+![Visual Studio](https://img.shields.io/badge/VISUAL STUDIO-black?style=flat-square&logo=visualstudio&logoColor=FF9900)
 ![Insomnia](https://img.shields.io/badge/INSOMNIA-black?style=flat-square&logo=insomnia&logoColor=FF9900)
 ![Postman](https://img.shields.io/badge/POSTMAN-000000?style=flat-square&logo=postman)
 
