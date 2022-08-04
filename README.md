@@ -25,9 +25,12 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
 ![Vuejs](https://img.shields.io/badge/VUEJS-black?style=flat-square&logo=vuejs&logoColor=red)
 ![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
+![AdonisJS](https://img.shields.io/badge/ADONISJS-black?style=flat-square&logo=adonisjs)
 ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-black?style=flat-square&logo=express)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/LARAVEL-black?style=flat-square&logo=laravel)
+![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=sass)
+![STYLUS](https://img.shields.io/badge/STYLUS-black?style=flat-square&logo=stylus)
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=flat-square&logo=postgresql)
