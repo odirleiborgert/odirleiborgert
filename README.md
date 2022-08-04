@@ -29,6 +29,7 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-black?style=flat-square&logo=express)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/LARAVEL-black?style=flat-square&logo=laravel)
+![SYMFONY](https://img.shields.io/badge/SYMFONY-black?style=flat-square&logo=symfony)
 ![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=sass)
 ![STYLUS](https://img.shields.io/badge/STYLUS-black?style=flat-square&logo=stylus)
 
