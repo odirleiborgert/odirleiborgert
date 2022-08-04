@@ -17,6 +17,7 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 ![Postman](https://img.shields.io/badge/POSTMAN-000000?style=flat-square&logo=postman)
 
 ![Csharp](https://img.shields.io/badge/CSHARP-black?style=flat-square&logo=csharp)
+![DOTNET](https://img.shields.io/badge/DOTNET-black?style=flat-square&logo=dotnet&logoColor=FF9900)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
@@ -30,7 +31,7 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=flat-square&logo=mongodb)
 
-![AZURE](https://img.shields.io/badge/AZURE-black?style=flat-square&logo=azure&logoColor=FF9900)
+![AZURE](https://img.shields.io/badge/AZURE-black?style=flat-square&logo=microsoft-azure&logoColor=FF9900)
 
 ## 🚀 GitHub Stats
 ![](https://raw.githubusercontent.com/odirleiborgert/github-stats-transparent/output/generated/overview.svg)
