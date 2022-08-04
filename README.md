@@ -9,7 +9,7 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 - 🐦 Twitter [@odirleiborgert](https://twitter.com/odirleiborgert)
 - 👨‍💼 Linkedin [LinkedIn](https://www.linkedin.com/in/odirleiborgert/)
 
-## 💻 Technologies & Tools
+### 💻 Tecnologias & Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github)
@@ -32,7 +32,3 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=flat-square&logo=mongodb)
 
 ![AZURE](https://img.shields.io/badge/AZURE-black?style=flat-square&logo=microsoft-azure&logoColor=FF9900)
-
-## 🚀 GitHub Stats
-![](https://raw.githubusercontent.com/odirleiborgert/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/odirleiborgert/github-stats-transparent/output/generated/languages.svg)
