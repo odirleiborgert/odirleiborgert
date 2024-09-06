@@ -13,6 +13,7 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 
 ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github)
+![PHPStorm](https://img.shields.io/badge/PHPSTORM-000000?style=flat-square&logo=visual-studio-code&logoColor=blue)
 ![VS Code](https://img.shields.io/badge/VSCODE-000000?style=flat-square&logo=visual-studio-code&logoColor=blue)
 ![Visual Studio](https://img.shields.io/badge/VISUAL_STUDIO-black?style=flat-square&logo=visualstudio&logoColor=FF9900)
 ![Insomnia](https://img.shields.io/badge/INSOMNIA-black?style=flat-square&logo=insomnia&logoColor=FF9900)
@@ -23,7 +24,7 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-black?style=flat-square&logo=react)
-![Vuejs](https://img.shields.io/badge/VUEJS-black?style=flat-square&logo=vuejs&logoColor=red)
+![Vuejs](https://img.shields.io/badge/VUE-black?style=flat-square&logo=vuejs&logoColor=red)
 ![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
 ![AdonisJS](https://img.shields.io/badge/ADONISJS-black?style=flat-square&logo=adonisjs)
 ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-black?style=flat-square&logo=express)
@@ -37,4 +38,5 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MONGODB-black?style=flat-square&logo=mongodb)
 
-![AZURE](https://img.shields.io/badge/AZURE-black?style=flat-square&logo=microsoft-azure&logoColor=FF9900)
+![AZURE](https://img.shields.io/badge/AZURE-black?style=flat-square&logo=azure&logoColor=FF9900)
+![DOCKER](https://img.shields.io/badge/DOCKER-black?style=flat-square&logo=docker&logoColor=FF9900)
