@@ -1,6 +1,6 @@
 ### 👋 Olá, aqui é o Odirlei!
 
-Trabalho com desenvolvimento web desde 2004. Atualmente trabalho com PHP (Laravel, Symfony, Codeignitor), C# (.NET Core), NodeJS (Express, Adonis, Restify), JavaScript (VueJS, React), CSS (Less, Stylus, SASS, Tailwind). Tenho algum conhecimento em cloud com Azure e Devops.
+Trabalho com desenvolvimento web desde 2004. Atualmente trabalho com PHP (Laravel, Symfony, Codeignitor), C# (.NET Core), NodeJS (Express, Adonis, Restify, NestJs), JavaScript (VueJS, React), CSS (Less, Stylus, SASS, Tailwind). Tenho algum conhecimento em cloud com Azure e Devops.
 
 ### Onde me encontrar
 
@@ -27,6 +27,7 @@ Trabalho com desenvolvimento web desde 2004. Atualmente trabalho com PHP (Larave
 ![NodeJS](https://img.shields.io/badge/NODEJS-black?style=flat-square&logo=node.js)
 ![AdonisJS](https://img.shields.io/badge/ADONISJS-black?style=flat-square&logo=adonisjs)
 ![ExpressJS](https://img.shields.io/badge/EXPRESSJS-black?style=flat-square&logo=express)
+![NestJS](https://img.shields.io/badge/NESTJS-black?style=flat-square&logo=nestjs)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/LARAVEL-black?style=flat-square&logo=laravel)
 ![SYMFONY](https://img.shields.io/badge/SYMFONY-black?style=flat-square&logo=symfony)
