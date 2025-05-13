@@ -6,7 +6,6 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 
 - 🌎 [www.odirleiborgert.com.br](http://www.odirleiborgert.com.br)
 - 🌎 Behance [@odirleiborgert](https://www.behance.net/odirleiborgert)
-- 🐦 Twitter [@odirleiborgert](https://twitter.com/odirleiborgert)
 - 👨‍💼 Linkedin [LinkedIn](https://www.linkedin.com/in/odirleiborgert/)
 
 ### 💻 Tecnologias & Ferramentas
