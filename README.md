@@ -33,6 +33,7 @@ Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), N
 ![SYMFONY](https://img.shields.io/badge/SYMFONY-black?style=flat-square&logo=symfony)
 ![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=sass)
 ![STYLUS](https://img.shields.io/badge/STYLUS-black?style=flat-square&logo=stylus)
+![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-black?style=flat-square&logo=tailwindcss)
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=flat-square&logo=postgresql)
