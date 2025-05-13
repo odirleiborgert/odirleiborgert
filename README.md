@@ -1,6 +1,6 @@
 ### 👋 Olá, aqui é o Odirlei!
 
-Trabalho com desenvolvimento web desde 2004. Hoje trabalho com C# (.NET Core), NodeJS (Express, Adonis, Restify), PHP (Laravel, Symfony, Codeignitor), JavaScript (VueJS, React), CSS (Less, Stylus, SASS). Tenho algum conhecimento em cloud com Azure e Devops.
+Trabalho com desenvolvimento web desde 2004. Atualmente trabalho com PHP (Laravel, Symfony, Codeignitor), C# (.NET Core), NodeJS (Express, Adonis, Restify), JavaScript (VueJS, React), CSS (Less, Stylus, SASS, Tailwind). Tenho algum conhecimento em cloud com Azure e Devops.
 
 ### Onde me encontrar
 
